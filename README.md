@@ -211,4 +211,4 @@ Empire Total War is provided as a full free version, ensuring all features and u
 Download Empire Total War now and experience the epic battles of the 18th century! Engage in strategic warfare like never before!
 
 ---
-**Last updated:** 2026-11-08 10:58:29 UTC
+**Last updated:** 2026-11-08 16:56:48 UTC
